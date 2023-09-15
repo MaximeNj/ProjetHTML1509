@@ -4,6 +4,6 @@
 <h2> Tiens de ma compo </h2>
 <p> Lorem ipsum le dernier fichier de ce projet créé par un Homme</p> 
 </body>
-
+<p>lasui c'est un txt, raté</p>
 
 </html>
